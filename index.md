@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+## 杨铭的个人主页
 
-You can use the [editor on GitHub](https://github.com/yang2019901/yang2019901.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 个人简历
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 主要奖项
 
-### Markdown
+### 曾获荣誉
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 项目经历
 
-```markdown
-Syntax highlighted code block
+#### 循线物块投递小车 																																			  2019.09 – 2020.01
 
-# Header 1
-## Header 2
-### Header 3
+- 参与智能小车的功能分解和模块设计。
+- 参与物块投放机构的设计与建模；参与电路原理图绘制和硬件布线
+- 主持算法工作，独立完成循线算法和投放逻辑的设计和实现；主持调试工作，最终完成项目全部预期功能。
 
-- Bulleted
-- List
+#### 工作计划台灯 																																						2019.09 – 2020.01
 
-1. Numbered
-2. List
+-  独立设计制作手机端的台灯控制APP。
+-  基于蓝牙协议，实现台灯和APP的通讯。
 
-**Bold** and _Italic_ and `Code` text
+#### 格斗机器人 																																							2020.06 – 2020.09
 
-[Link](url) and ![Image](src)
-```
+-  参与机器人机械结构的设计、建模与仿真。
+-  参与零件选型、机器人组装以及后续的结构优化和迭代。
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+#### 基于机器视觉的魔方还原机器人																												 2020.08 – 2020.11
 
-### Jekyll Themes
+- 参与整体方案设计，共同敲定实施细节
+- 查阅并部署现有的高效魔方解算算法，还原时间大大缩减，降至原先的30%。
+- 编写视觉识别和魔方解算的接口程序，并独立完成电气控制部分的算法，实现上位机对机械爪的指令控制。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yang2019901/yang2019901.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+| ![魔方机器人模块关系示意图](https://github.com/yang2019901/yang2019901.github.io\index.assets\魔方机器人模块关系示意图-16510585395551.png) | ![魔方机器人主程序框图](https://github.com/yang2019901/yang2019901.github.io\index.assets\魔方机器人主程序框图.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+#### 新型高效水下推进器 																																		 2021.03 – 2021.09
+
+-  参与推进器高效推水机构的设计，独立完成工程图的绘制。
+-  参与完成推进器的组装和电气控制。
+
+#### 基于表面肌电信号的手势识别 																													 2021.03 – 2021.09
+
+-  参与完成系统的功能分解和模块划分。
+- 参与滤波电路参数计算和电路原理的检查，完成PCB的焊接。
+-  独立完成主控板的信号采集程序编写和调试，独立完成上位机上的基于3层神经网络的手势识别程序。
+-  基于QT框架完成上位机的GUI编写，整合数据采集、分类器训练和实时手势分类的功能，并可实时显示串口波形。
+
+ 参与滤波电路参数计算和电路原理的检查，完成PCB的焊接。
+
+-  独立完成主控板的信号采集程序编写和调试，独立完成上位机上的基于3层神经网络的手势识别程序。
+-  基于QT框架完成上位机的GUI编写，整合数据采集、分类器训练和实时手势分类的功能，并可实时显示串口波形。
+
+#### 基于惯性测量单元的动作捕捉系统 																											2021.09 – 2021.11
+
+-  利用DMP（Digital Motion Processor）库，完成肢体姿态获取与发送。
+-  设计主控板和FPGA、FPGA和上位机的通讯协议；完成主控板和FPGA、FPGA和上位机的串口通讯。
+-  主持完成FPGA的数据拼接算法（基于摩尔状态机）的设计与实现，参与完成数据拼接算法的有效性和可靠性的验证。
