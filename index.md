@@ -30,10 +30,27 @@
 - 查阅并部署现有的高效魔方解算算法，还原时间大大缩减，降至原先的30%。
 - 编写视觉识别和魔方解算的接口程序，并独立完成电气控制部分的算法，实现上位机对机械爪的指令控制。
 
-![demo](https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/demo.gif)
 
-![魔方机器人模块关系示意图](https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/魔方机器人模块关系示意图.png) 
-![魔方机器人主程序框图](https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/魔方机器人主程序框图.png)
+<table>
+  <tr> 
+    <th> 魔方机器人实机演示 </th> 
+  </tr>
+  <tr> 
+    <td> <img src=https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/demo.gif> </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <th> 魔方机器人模块关系示意图 </th>
+    <th> 魔方机器人主程序框图 </th>
+  </tr>
+  <tr>
+    <td> <div> <img src=https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/魔方机器人模块关系示意图.png> </div> </td>
+    <td> <div> <img src=https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/魔方机器人主程序框图.png> </div> </td>
+  </tr>
+</table>
 
 
 #### 新型高效水下推进器 																																		 2021.03 – 2021.09
@@ -53,21 +70,26 @@
 -  利用DMP（Digital Motion Processor）库，完成肢体姿态获取与发送。
 -  设计主控板和FPGA、FPGA和上位机的通讯协议；完成主控板和FPGA、FPGA和上位机的串口通讯。
 -  主持完成FPGA的数据拼接算法（基于摩尔状态机）的设计与实现，参与完成数据拼接算法的有效性和可靠性的验证。
-1. 实机演示
 
-![实机演示](https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/实机演示.gif)
 
-2. 整体结构介绍
-
-![整体结构介绍](https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/整体结构介绍.gif)
-
-3. 原理介绍
-
-![原理介绍](https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/原理介绍.gif)
-
-4. 性能测试
-
-![性能测试](https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/性能测试.gif)
+<table>
+  <tr>
+    <th> 1. 实机演示 </th>
+    <th> 2. 整体结构介绍 </th>
+  </tr>
+  <tr>
+    <td> <img src=https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/实机演示.gif> </td>
+    <td> <img src=https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/整体结构介绍.gif> </td>
+  </tr>
+  <tr>
+    <th> 3. 原理介绍 </th>
+    <th> 4. 性能测试 </th>
+  </tr>
+  <tr>
+    <td> <img src=https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/原理介绍.gif> </td>
+    <td> <img src=https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/性能测试.gif> </td>
+  </tr>
+</table>
 
 <video src="https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/FPGA_1.mp4"></video>
 
