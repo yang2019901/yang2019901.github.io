@@ -90,7 +90,3 @@
     <td> <img src=https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/性能测试.gif> </td>
   </tr>
 </table>
-
-<video src="https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/FPGA_1.mp4"></video>
-
-<video src="https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/FPGA_2.mp4"></video>
