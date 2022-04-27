@@ -30,7 +30,7 @@
 - 查阅并部署现有的高效魔方解算算法，还原时间大大缩减，降至原先的30%。
 - 编写视觉识别和魔方解算的接口程序，并独立完成电气控制部分的算法，实现上位机对机械爪的指令控制。
 
-| ![魔方机器人模块关系示意图](https://yang2019901.github.io/tree/main/index.assets/魔方机器人模块关系示意图-16510585395551.png) | ![魔方机器人主程序框图](https://yang2019901.github.io/tree/main/index.assets/魔方机器人主程序框图.png) |
+| ![魔方机器人模块关系示意图](https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/魔方机器人模块关系示意图-16510585395551.png) | ![魔方机器人主程序框图](https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/魔方机器人主程序框图.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
