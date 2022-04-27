@@ -32,7 +32,7 @@
 
 ![demo](https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/demo.gif)
 
-![魔方机器人模块关系示意图](https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/魔方机器人模块关系示意图-16510585395551.png) 
+![魔方机器人模块关系示意图](https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/魔方机器人模块关系示意图.png) 
 ![魔方机器人主程序框图](https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/魔方机器人主程序框图.png)
 
 
@@ -54,4 +54,6 @@
 -  设计主控板和FPGA、FPGA和上位机的通讯协议；完成主控板和FPGA、FPGA和上位机的串口通讯。
 -  主持完成FPGA的数据拼接算法（基于摩尔状态机）的设计与实现，参与完成数据拼接算法的有效性和可靠性的验证。
 
-<video src="https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/FPGA_Final_x264.mp4"></video>
+<video src="C:\Users\Lenovo\Desktop\个人主页制作\个人主页\yang2019901.github.io\index.assets\FPGA_1.mp4"></video>
+
+<video src="C:\Users\Lenovo\Desktop\个人主页制作\个人主页\yang2019901.github.io\index.assets\FPGA_2.mp4"></video>
