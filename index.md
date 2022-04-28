@@ -58,15 +58,20 @@
 -  设计主控板和FPGA、FPGA和上位机的通讯协议；完成主控板和FPGA、FPGA和上位机的串口通讯。
 -  主持完成FPGA的数据拼接算法（基于摩尔状态机）的设计与实现，参与完成数据拼接算法的有效性和可靠性的验证。
 
+
 1. 实机演示
+
   ![实机演示](https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/实机演示.gif)
 
 2. 整体结构介绍
+
   ![整体结构介绍](https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/整体结构介绍.gif)
 
 3. 原理介绍
+
   ![原理介绍](https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/原理介绍.gif)
 
 4. 性能测试
+
   ![性能测试](https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/性能测试.gif)
 
