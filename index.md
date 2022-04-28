@@ -36,7 +36,7 @@
     <th> 魔方机器人实机演示 </th> 
   </tr>
   <tr> 
-    <td> <img src=https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/demo.gif> </td>
+    <td> <div> <img src=https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/demo.gif /> </div> </td>
   </tr>
 </table>
 
@@ -47,8 +47,8 @@
     <th> 魔方机器人主程序框图 </th>
   </tr>
   <tr>
-    <td> <div> <img src=https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/魔方机器人模块关系示意图.png> </div> </td>
-    <td> <div> <img src=https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/魔方机器人主程序框图.png> </div> </td>
+    <td> <div> <img src=https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/魔方机器人模块关系示意图.png /> </div> </td>
+    <td> <div> <img src=https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/魔方机器人主程序框图.png /> </div> </td>
   </tr>
 </table>
 
@@ -78,15 +78,15 @@
     <th> 2. 整体结构介绍 </th>
   </tr>
   <tr>
-    <td> <img src=https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/实机演示.gif> </td>
-    <td> <img src=https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/整体结构介绍.gif> </td>
+    <td> <img src=https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/实机演示.gif /> </td>
+    <td> <img src=https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/整体结构介绍.gif /> </td>
   </tr>
   <tr>
     <th> 3. 原理介绍 </th>
     <th> 4. 性能测试 </th>
   </tr>
   <tr>
-    <td> <img src=https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/原理介绍.gif> </td>
-    <td> <img src=https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/性能测试.gif> </td>
+    <td> <img src=https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/原理介绍.gif /> </td>
+    <td> <img src=https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/性能测试.gif /> </td>
   </tr>
 </table>
