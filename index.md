@@ -33,13 +33,6 @@
 ![demo](https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/demo.gif)
 
 
-![魔方机器人模块关系示意图](https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/魔方机器人模块关系示意图.png)
-
-
-![魔方机器人主程序框图](https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/main/index.assets/魔方机器人主程序框图.png)
-
-
-
 #### 新型高效水下推进器 																																		 2021.03 – 2021.09
 
 -  参与推进器高效推水机构的设计，独立完成工程图的绘制。
