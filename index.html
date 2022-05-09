@@ -2,19 +2,6 @@
 layout: default
 ---
 <style>
-table {
-  table-layout: fixed;
-  width: 100%;
-}
-tr {
-  width: 100%;
-}
-th {
-  width: 25%;
-}
-td {
-  width: 25%;
-}
 video {
   margin: auto;
   width: 75%;
@@ -22,6 +9,7 @@ video {
 }
 summary {
   color: orange;
+  text-decoration: underline;
 }
 .left {
   flex: auto;
@@ -46,6 +34,7 @@ summary {
     <tr>
       <th>姓名</th> <td>杨铭</td>
       <th>出生年月</th> <td>2001年10月</td>
+      <td rowspan="4"><img src="https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/assets/profile.png"></td>
     </tr>
     <tr>
       <th>民族</th> <td>汉</td>
@@ -68,63 +57,65 @@ summary {
       <div class="center">天津大学求是学部</div>
       <div class="right">未来智能机器平台与系统（主修）</div>
     </h4>
-    <p class=table_content>主修课程：工科数学分析、高等代数、概率论与数理统 计、智能电子创客设计与实践、设计与建造、自动控制理论、电子测量、电路理论与信号处理、数字器件与数字系统、程序设计原理、微机原理</p>
+    <p>主修课程：工科数学分析、高等代数、概率论与数理统计、智能电子创客设计与实践、设计与建造、自动控制理论、电子测量、电路理论与信号处理、数字器件与数字系统、程序设计原理、微机原理</p>
     <h4 style="display:flex">
       <div class="left">2021.03至今</div>
       <div class="center">天津大学数学学院</div>
       <div class="right">数学与应用数学（双学位）</div>
     </h4>
-    <p class=table_content>主修课程：数学分析、高等代数、抽象代数、概率论、 数理统计、常微分方程、实分析、复分析、复分析、拓扑学</p>
+    <p>主修课程：数学分析、高等代数、抽象代数、概率论、数理统计、常微分方程、实分析、复分析、复分析、拓扑学</p>
 
   <h2>学习情况</h2>
-  <table>
-    <tr>
-      <th>成绩排名</th> <td>4/106</td>
-      <th>绩点</th> <td>3.91</td>
-    </tr>
-    <tr>
-      <th>主修加权成绩</th> <td>93.36</td>
-      <th>辅修加权成绩</th> <td>92.07</td>
-    </tr>
-    <tr>
-      <th>CET4</th> <td>539</td>
-      <th>CET6</th> <td>562</td>
-    </tr>
-  </table>
+  <div style="display:flex;">
+    <div class="left"><h4>成绩排名</h4></div> <div class="left">4/106</div>
+    <div class="left"><h4>绩点</h4></div> <div class="left">3.91</div>
+  </div>
+  <div style="display:flex;">
+    <div class="left"><h4>主修加权成绩</h4></div> <div class="left">93.36</div>
+    <div class="left"><h4>辅修加权成绩</h4></div> <div class="left">92.07</div>
+  </div>
+  <div style="display:flex;">
+    <div class="left"><h4>CET6</h4></div> <div class="left">562</div>
+    <div class="left"><h4>CET4</h4></div> <div class="left">539</div>
+  </div>
+  <div style="width: 50%">
+    <img src="https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/assets/grades_white.png">
+  </div>
+
 
   <h2>曾获荣誉</h2>
   <table>
     <tr>
-      <th>日期</th> <th>奖项名称</th> <th>颁奖单位</th>
+      <th>日期</th> <th>奖项名称</th> <th>级别</th>
     </tr>
     <tr>
-      <td>2020年12月</td> <td>“全国大学生数学竞赛”国家一等奖</td> <td>中国数学会</td>
+      <td>2020年12月</td> <td>“全国大学生数学竞赛”</td> <td>国家一等奖</td>
     </tr>
     <tr>
-      <td>2020年12月</td> <td>“中国高校智能机器人创意大赛”全国三等奖</td> <td>中国高校智能机器人创意大赛组委会</td>
+      <td>2020年12月</td> <td>“中国高校智能机器人创意大赛”</td> <td>全国三等奖</td>
     </tr>
     <tr>
-      <td>2021年4月</td> <td>“全国大学生机器人大赛 ROBOMASTER 2021机甲大师高校单项赛” 北部赛区二等奖</td>
-      <td>全国大学生机器人大赛 ROBOMASTER 组委会</td>
+      <td>2021年4月</td> <td>“全国大学生机器人大赛 ROBOMASTER 2021机甲大师高校单项赛”</td>
+      <td>北部赛区二等奖</td>
     </tr>
     <tr>
-      <td>2021年4月</td> <td>“全国大学生机器人大赛 ROBOMASTER 2021机甲大师高校联盟赛” 华北赛区三等奖</td>
-      <td>山东省自动化学会</td>
+      <td>2021年4月</td> <td>“全国大学生机器人大赛 ROBOMASTER 2021机甲大师高校联盟赛”</td>
+      <td>华北赛区三等奖</td>
     </tr>
     <tr>
-      <td>2021年8月</td> <td>“全国周培源大学生力学竞赛”全国三等奖</td> <td> 中国力学学会、周培源基金会</td>
+      <td>2021年8月</td>  <td>“全国周培源大学生力学竞赛”</td> <td>全国三等奖</td>
     </tr>
     <tr>
-      <td>2021年8月</td> <td>“天津市大学生力学竞赛”省级一等奖</td> <td>天津 市力学学会</td>
+      <td>2021年8月</td>  <td>“天津市大学生力学竞赛”</td> <td>省级一等奖</td>
     </tr>
     <tr>
-      <td>2021年11月</td> <td>“全国大学生数学建模竞赛”天津赛区二等奖</td> <td>工业与应用数学学会、大学生数学建模竞赛天津组委会</td>
+      <td>2021年11月</td> <td>“全国大学生数学建模竞赛”</td> <td>天津赛区二等奖</td>
     </tr>
     <tr>
-      <td>2021年12月</td> <td>“全国大学生 FPGA 创新设计竞赛”全国二等奖</td> <td>中国电子学会</td>
+      <td>2021年12月</td> <td>“全国大学生 FPGA 创新设计竞赛”</td> <td>全国二等奖</td>
     </tr>
     <tr>
-      <td>2021年12月</td> <td>NITORI国际奖学金</td> <td>似鸟国际奖学财团、天津大学</td>
+      <td>2021年12月</td> <td>“NITORI国际奖学金”</td> <td>国际级</td>
     </tr>
   </table>
 
@@ -133,11 +124,18 @@ summary {
     <div style="float:left">循线物块投递小车</div>
     <div style="float:right">2019.09 - 2020.01</div>
   </h3>
-  <ul style="clear: both">
+  <ul style="clear:both;">
     <li>参与智能小车的功能分解和模块设计。
     <li>参与物块投放机构的设计与建模；参与电路原理图绘制和硬件布线
     <li>主持算法工作，独立完成循线算法和投放逻辑的设计和实现；主持调试工作，最终完成项目全部预期功能。
   </ul>
+  <details>
+    <summary>details: cable-following deliverer</summary>
+    <div style="text-align: center;">
+      <img style="width: 50%;" 
+      src="https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/assets/cable_following_deliverer.jpg">
+    </div>
+  </details>
 
   <h3>
     <div style="float:left">工作计划台灯</div>
@@ -147,6 +145,17 @@ summary {
     <li>独立设计制作手机端的台灯控制APP。</li>
     <li>基于蓝牙协议，实现台灯和APP的通讯。</li>
   </ul>
+  <details>
+    <summary>details: D-Killer</summary>
+    <div style="display:flex;">
+      <div>
+        <img src="https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/assets/DKiller_model.png">
+      </div>
+      <div>
+        <img src="https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/assets/DKiller_app.png">
+      </div>
+    </div>
+  </details>
 
   <h3>
     <div style="float:left">格斗机器人</div>
@@ -156,6 +165,13 @@ summary {
     <li>参与机器人机械结构的设计、建模与仿真。</li>
     <li>参与零件选型、机器人组装以及后续的结构优化和迭代。</li>
   </ul>
+  <details>
+    <summary>details: fighter-Forza</summary>
+    <div style="text-align: center;">
+      <img style="width: 50%;" 
+      src="https://raw.githubusercontent.com/yang2019901/yang2019901.github.io/assets/fighter_Forza.png">
+    </div>
+  </details>
 
   <h3>
     <div style="float:left">基于机器视觉的魔方还原机器人</div>
