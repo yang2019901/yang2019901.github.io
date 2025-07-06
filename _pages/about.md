@@ -39,9 +39,7 @@ redirect_from:
 
 **Ming Yang**, Hongyu Cao, Lixuan Zhao, Chenrui Zhang, and Yaran Chen
 
-[[paper](https://arxiv.org/abs/2503.11012)] [[code](https://github.com/yang2019901/GMatch)]
-
-<strong><span class='show_paper_citations' data='XUaL4MMAAAAJ:qjMakFHDy7sC'></span></strong>
+[[paper](https://arxiv.org/abs/2503.11012)] [[code](https://github.com/Bob-Eric/rmus2024_solution_ZeroBug)]
 
 我们提出了一套自主机器人系统，可在长时序操作任务中实现仿真到现实（sim-to-real）的迁移。该系统的核心在于其感知与伺服模块，分别针对运动模糊和抓取模拟误差进行了鲁棒设计，从而在仿真和现实中一致地达到了亚厘米级的视觉伺服精度。
 </div>
@@ -56,8 +54,6 @@ redirect_from:
 **Ming Yang**, and Haoran Li
 
 [[paper](https://arxiv.org/abs/2505.16144)] [[code](https://github.com/yang2019901/GMatch)]
-
-<strong><span class='show_paper_citations' data='XUaL4MMAAAAJ:qjMakFHDy7sC'></span></strong>
 
 本文提出了 GMatch，一种无需学习、运行高效的特征匹配算法，旨在实现鲁棒的 6DoF 物体位姿估计。GMatch 采用引导式增量搜索策略，并在整个过程中持续施加 SE(3) 不变的几何约束。作为一个通用特征匹配器，GMatch 可灵活适配主流关键点描述子，如 SIFT、SuperPoint 等。将 GMatch 与 SIFT 结合构建的位姿估计流程（即 GMatch-SIFT），在 BOP 基准平台中表现优异，达到或超过当前最佳算法的性能。
 </div>
@@ -87,46 +83,6 @@ redirect_from:
 2. 基于最优化/卡尔曼滤波的运动预测：建立能量机关的运动模型，先后实现了基于最优化和基于无迹卡尔曼滤波的两种运动参数估计的方案，并从收敛快速性、鲁棒性和时间开销等指标进行评估，最后使用ceres-solver（最优化方案）完成了运动参数估计及击打目标位置预测
 3. 响应快速的云台控制与目标击打：基于视觉伺服思路以目标的图像坐标作为被控量设计PID控制器，建立高度补偿表并通过参数整定实现快速跟踪和击打，成功率达90%以上。
 
-<!-- 
-## 其余奖项
-<div>
-  <div style="display: flex; justify-content: space-between;">
-    <span style="flex:1; text-align:left;">NITORI国际奖学金</span>
-    <span style="flex:1; text-align:center;"><em>2021年</em></span>
-    <span style="flex:1; text-align:right;"></span>
-  </div>
-  <div style="display: flex; justify-content: space-between;">
-    <span style="flex:1; text-align:left;">全国大学生数学竞赛</span>
-    <span style="flex:1; text-align:center;"><em>2020年</em></span>
-    <span style="flex:1; text-align:right;">一等奖</span>
-  </div>
-  <div style="display: flex; justify-content: space-between;">
-    <span style="flex:1; text-align:left;">ROBOMASTER 2021高校单项赛-工程采矿</span>
-    <span style="flex:1; text-align:center;"><em>2021年</em></span>
-    <span style="flex:1; text-align:right;">二等奖</span>
-  </div>
-  <div style="display: flex; justify-content: space-between;">
-    <span style="flex:1; text-align:left;">全国大学生FPGA创新设计竞赛决赛</span>
-    <span style="flex:1; text-align:center;"><em>2021年</em></span>
-    <span style="flex:1; text-align:right;">二等奖</span>
-  </div>
-  <div style="display: flex; justify-content: space-between;">
-    <span style="flex:1; text-align:left;">全国周培源大学生力学竞赛</span>
-    <span style="flex:1; text-align:center;"><em>2021年</em></span>
-    <span style="flex:1; text-align:right;">三等奖</span>
-  </div>
-  <div style="display: flex; justify-content: space-between;">
-    <span style="flex:1; text-align:left;">中国高校智能机器人创意大赛</span>
-    <span style="flex:1; text-align:center;"><em>2020年</em></span>
-    <span style="flex:1; text-align:right;">三等奖</span>
-  </div>
-  <div style="display: flex; justify-content: space-between;">
-    <span style="flex:1; text-align:left;">ROBOMASTER 2021高校联盟赛-3v3</span>
-    <span style="flex:1; text-align:center;"><em>2021年</em></span>
-    <span style="flex:1; text-align:right;">三等奖</span>
-  </div>
-</div>
- -->
 # 🛠️ 项目经历 {#Projects}
 
 ## LoCoBot家居环境物品整理
